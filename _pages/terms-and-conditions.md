@@ -12,7 +12,7 @@ The terms and conditions are provided in English only. If you do not use an inte
 
 ---
 
-The terms and conditions of Integro Futures services are between you, as an individual over the age of 18 (hereinafter referred to as "you"/"your" or other second party names) and Integro Futures (hereinafter referred to as "Integro Futures" / "us" / "our" / "we" / "Service"). If you register for this Service, use any of the Services provided on this Service, click "Fully Agree", you agree that you have read, understand and accept all of the terms and conditions set forth in these Terms of Service — (collectively, the "Terms") and the Privacy Policy ( ++++++++++++++++++). In addition, by using certain features of the Service, you may be subject to certain additional terms applicable to those features.
+The terms and conditions of Integro Futures services are between you, as an individual over the age of 18 (hereinafter referred to as "you"/"your" or other second party names) and Integro Futures (hereinafter referred to as "Integro Futures" / "us" / "our" / "we" / "Service"). If you register for this Service, use any of the Services provided on this Service, click "Fully Agree", you agree that you have read, understand and accept all of the terms and conditions set forth in these Terms of Service — (collectively, the "Terms") and the [Privacy Policy](#privacy-policy). In addition, by using certain features of the Service, you may be subject to certain additional terms applicable to those features.
 
 Please note the following:
 - Integro Futures does not issue digital assets that you use as part of this Service;
@@ -46,7 +46,7 @@ Personal account is a functional part of Integro Futures online products designe
 
 ## II. Basic provisions
 
-**2.1.** These Terms consist of the text itself, the Regulatory Instruments and the Privacy Policy (+++++++++++++++++++++++++) as well as various rules, regulations, explanations, already published or to be published in the future.
+**2.1.** These Terms consist of the text itself, the Regulatory Instruments and the [Privacy Policy](#privacy-policy) as well as various rules, regulations, explanations, already published or to be published in the future.
 
 **2.2.** Before using any of the Services provided by Integro Futures, you should read these Terms and Conditions carefully and if you do not understand any part of the Terms and Conditions or otherwise need to consult a professional lawyer. If you do not agree with these Terms and/or changes to them at any time, we ask that you immediately stop using the Services provided by Integro Futures and no longer enter/enter the Service. Logging into the Service, use of any Services provided by Integro Futures, or any other similar action shall be deemed an indication that you have understood and fully accepted the content of each clause of these Terms and Conditions, including any changes to these Terms and Conditions at any time.
 
@@ -204,7 +204,7 @@ The user understands that Integro Futures does not in any way influence the rate
 
 **7.5.** Integro Futures shall not be liable in any manner whatsoever (whether pecuniary, monetary, administrative, criminal, civil or otherwise) for the preservation of digital assets for the reasons set out in these Terms and Conditions.
 
-**7.6.** In case of loss or compromise of the password and/or Personal Area data, as well as in case of unauthorized access to the Personal Area by third parties, the User shall immediately notify Integro Futures Technical Support of such events. ( ++++++++++++++++++++++++++++). Until Integro Futures receives such a notification, all actions performed using the User's Personal Account shall be considered as such performed by the User as the owner of the Personal Account.
+**7.6.** In case of loss or compromise of the password and/or Personal Area data, as well as in case of unauthorized access to the Personal Area by third parties, the User shall immediately notify Integro Futures [Technical Support](https://t.me/integro_futures) of such events. Until Integro Futures receives such a notification, all actions performed using the User's Personal Account shall be considered as such performed by the User as the owner of the Personal Account.
 
 **7.7.** The User acknowledges and agrees that deposits and withdrawals may be delayed due to the nature of the networks. The User acknowledges and agrees that the deposit and withdrawal of digital assets to his Personal Area may take from one (1) hour to seventy-two (72) hours, except for unforeseen or unavoidable network problems.
 
@@ -391,8 +391,8 @@ Registration number: 2616456
 
 Official website: [integro-futures.github.io](https://integro-futures.github.io/)
 
-For partnership inquiries: +++++++++++++
+[comment]: <> (For partnership inquiries: +++++++++++++)
 
-Support-service site: +++++++++++++++
+[comment]: <> (Support-service site: +++++++++++++++)
 
-Support-service in Telegram: ++++++++++++++
+Support-service in Telegram: [t.me/integro_futures](https://t.me/integro_futures)
