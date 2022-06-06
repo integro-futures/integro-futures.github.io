@@ -192,7 +192,7 @@ The user understands that Integro Futures does not in any way influence the rate
 
 **6.6.** You agree to indemnify Integro Futures for any damages, fines or penalties imposed by any regulatory authority as a result of your use of the Integro Futures Services, your violation of any applicable law, regulation or third party rights in your use of the Integro Futures Services. If you are obligated to indemnify Integro Futures operators, their affiliates, contractors, licensors and their respective directors, officers, employees or agents under these Terms and Conditions, Integro Futures will have the right in its sole discretion to monitor any actions or procedures and determine whether Integro Futures wishes to settle, and if so, on what terms.
 
-# VII. Personal profile and account
+## VII. Personal profile and account
 
 **7.1.** Information on personal account, account, transactions, transactions shall be stored in accordance with the law for 5 calendar years.
 
