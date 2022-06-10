@@ -20,17 +20,14 @@ include_in_header: false
 1. Откройте сайт: [365cash.co/SBERRUB/BTC](https://365cash.co/SBERRUB/BTC).
 Стоит отметить, что на данном обменнике минимальная сумма транзакции составляет 10,000₽.
 
-2. В пункте "Отдаете" выберите Банк, которым вы пользуйтесь, например, Сбербанк или Тинькофф.  
-
-![step-2](/assets/deposit/step-2.png){: style="display: block; margin: auto; max-width: 400px" }
+2. В пункте "Отдаете" выберите Банк, которым вы пользуйтесь, например, Сбербанк или Тинькофф.
+![step-2](/assets/deposit/step-2.png){: style="display: block; margin: auto; max-width: 400px; padding-top: 10px" }
 
 3. В пункте "Получаете" выберите "Bitcoin"
-
-![step-3](/assets/deposit/step-3.png){: style="display: block; margin: auto; max-width: 400px" }
+![step-3](/assets/deposit/step-3.png){: style="display: block; margin: auto; max-width: 400px; padding-top: 10px" }
 
 4. Заполните поля с суммой в рублях, номером карты, с который вы будете отправлять средства, и укажите ваш Bitcoin кошелек из Integro Futures Bot (нажмите `Кошелек` > `Пополнить`).
-
-![step-4](/assets/deposit/step-4.png){: style="display: block; margin: auto; max-width: 400px" }
+![step-4](/assets/deposit/step-4.png){: style="display: block; margin: auto; max-width: 400px; padding-top: 10px" }
 
 5. Нажмите "Обменять". Убедитесь, что все данные верны (проверьие, что три первых и последних символа Bitcoin кошелька совпадают) и нажмите "Далее".
 
