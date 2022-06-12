@@ -8,7 +8,7 @@ include_in_header: false
 
 **Без верификации и регистраций, через проверенные обменники**
 
-В этой статье мы размерем пополнение кошелька Integro Futures рублями через обменник [SOVA](https://sova.gg/).
+В этой статье мы разберем пополнение кошелька Integro Futures рублями через обменник [SOVA](https://sova.gg/).
 
 *Стоит отметить, что на данном обменнике минимальная сумма транзакции составляет 1,000₽ для перевода в BTC и 250₽ для перевода из BTC.*
 
@@ -17,7 +17,7 @@ include_in_header: false
 3. В пункте "Получаете" выберите "Bitcoin".
 ![step-3](/assets/deposit/step-3.png){: style="display: block; margin: auto; max-width: 400px; padding-top: 10px" }
 
-4. Заполните поля с суммой в рублях (или BTC), номером карты, с который вы будете отправлять средства, и укажите ваш Bitcoin кошелек из Integro Futures Bot (нажмите `Кошелек` > `Пополнить`).
+4. Заполните поля с суммой в рублях (или BTC), номером карты, с которой вы будете отправлять средства, и укажите ваш Bitcoin кошелек из Integro Futures Bot (нажмите `Кошелек` > `Пополнить`).
 ![step-4](/assets/deposit/step-4.png){: style="display: block; margin: auto; max-width: 400px; padding-top: 10px" }
 
 5. Нажмите "Обменять&nbsp;сейчас".
