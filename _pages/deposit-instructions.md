@@ -4,7 +4,7 @@ title: Пополнение кошелька Integro Futures
 include_in_header: false
 ---
 
-# Пополнение кошелька Integro Futures
+# Пополнение кошелька Integro Futures за 2 минуты
 
 **Без верификации и регистраций, через проверенные обменники**
 
